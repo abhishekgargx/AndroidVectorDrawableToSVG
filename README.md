@@ -8,3 +8,5 @@ Drop one or more android vector drawable onto this script to convert them to svg
 This script supports only a litte amount of attributes.
 
 Suggestions (or merge request) for improvement are welcome
+
+## Credits : Alessandro Lucchet
